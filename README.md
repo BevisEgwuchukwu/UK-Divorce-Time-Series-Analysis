@@ -60,7 +60,7 @@ The analysis was carried out in **R** with the following steps:
 
 ### Installation
 Open R or RStudio and install required packages:
-```r
+
 install.packages(c("tidyverse", "lubridate", "forecast", "tseries", "ggplot2", "readr"))
 
 
@@ -92,3 +92,5 @@ Example visualizations include:
 - Extend forecasting through 2030 and beyond.
 
 - Build an interactive dashboard using R Shiny or Plotly in R.
+
+```r
