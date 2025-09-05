@@ -34,7 +34,7 @@ Understanding divorce patterns is crucial for policymakers, sociologists, and re
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 The analysis was carried out in **R** with the following steps:
 1. **Data Preprocessing** – Cleaning, handling missing values, and formatting for time series.
 2. **Exploratory Data Analysis (EDA)** – Visualizing divorce trends over time.
@@ -52,7 +52,7 @@ The analysis was carried out in **R** with the following steps:
 
 ---
 
-## 🖥️ Setup & Requirements
+## Setup & Requirements
 
 ### Requirements
 - R (version 4.0 or higher)
